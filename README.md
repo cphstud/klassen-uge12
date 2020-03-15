@@ -30,13 +30,19 @@ ExportCarsToFile: lav en metode der tager tre parametre - et filnavn, et filter 
 
 ImportCarsFromFile: Du skal nu tilføje en attribut - NumberOfDoors - som skal fiskes ud af model-betegnelsen. Så f.eks er "530i 4dr" en BMW med fire døre. Tag højde for de tilfælde hvor der ikke står noget om antallet af døre.
 
+Bil: Du skal ændre i konstruktøren så den laver en løbende id (brug en statisk attribut som tæller)
+
+Bil: Du skal ændre i konstruktøren endnu engang så den løbende id kommer fra en hjælpeklasse der har en statisk attribut som tæller og en statisk metode - getCarId() - som du kan kalde fra din konstruktør
 
 ### 2)cars2.csv I
-- cars2.csv
+#### Der er nu kommet flere biler og flere attributter
+Garage: Du skal tilføje en id til konstruktøren (bruge en statisk tæller)
+Bil: Du skal ændre i konstruktøren så den kan lave biler med de attributter som fremgår af headeren. Du skal desuden tilføje en attribut hvor garagens id kan sættes (og gettes)
+ImportCarsFromFile: Du skal nu ændre i signaturen så den modtager filnavn samt returnerer en arrayliste af garager. Hver garage skal fyldes med 20 biler og hver bil skal stemples med garageid'et (hint:modulus)
+CarHandler: Du skal lave en ny klasse som har en metode - findCarGarageByReference - som modtager en reference samt listen af alle garager. Den skal returnere en bil. Metoden skal kaste en exception hvis den finder mere end én bil. Lav en testfil som kan fremprovokere denne fejl
 
-### 2)cars2.csv II
 
-- cars3.csv
 ### 3)cars2.csv 
+Vi mangler el-biler. De kan findes i denne fil.
 - cars4.csv
 
