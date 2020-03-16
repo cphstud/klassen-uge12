@@ -7,6 +7,7 @@ Mandag - læse biler ind fra filer og udskriv til fil
 
 ### cars1 I
 Bil: lav konstruktør som svarer til headeren. 
+
 ImportCarsFromFile: Lav en metode der tager en string som argument (filnavnet) og som bruger scanneren til at indlæse filen linje for linje. For hver linje skal den udskrive bilens Make og Model
 
 Main: Instantiér ImportCarsFromFile og indlæs filen "cars1.csv"
@@ -14,6 +15,7 @@ Main: Instantiér ImportCarsFromFile og indlæs filen "cars1.csv"
 ### cars1 II
 
 Garage: Lav en konstruktør hvor garagen får et navn og hvor en liste til biler initialiseres
+
 Garage: Lav en metode der kan sætte biler i garagen
 
 ImportCarsFromFile: Du skal nu lave en bil for hver linje ved at splitte linjen. Bilen skal kun konstrueres vha Make og Model. Du skal altså lave en konstruktør i bil-klassen som gør dette muligt.
@@ -36,7 +38,9 @@ Bil: Du skal ændre i konstruktøren endnu engang så den løbende id kommer fra
 ### cars2 I
 #### Der er nu kommet flere biler og flere attributter
 Garage: Du skal tilføje en id til konstruktøren (bruge en statisk tæller)
+
 Bil: Du skal ændre i konstruktøren så den kan lave biler med de attributter som fremgår af headeren. Du skal desuden tilføje en attribut hvor garagens id kan sættes (og gettes)
+
 ImportCarsFromFile: Du skal nu ændre i signaturen så den modtager filnavn samt returnerer en arrayliste af garager. Hver garage skal fyldes med 20 biler og hver bil skal stemples med garageid'et (hint:modulus)
 
 CarHandler: Du skal lave en ny klasse som har en metode - findCarGarageByReference - som modtager en reference samt listen af alle garager. Den skal returnere en bil. Metoden skal kaste en exception hvis den finder mere end én bil. Lav en testfil som kan fremprovokere denne fejl
