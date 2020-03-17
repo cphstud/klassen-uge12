@@ -68,8 +68,8 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 | 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 14:30 |`Cars2 ` |  | | |
 | 14:45 | |  | |`Books` |
-| 15:00 | |  | | |
+| 15:00 | |`Vores løsning` | | |
 | 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
-| 15:30 | |  | | |
+| 15:30 |`Bilopgaven` |  | | |
 | 15:45 |`Maven og junit` |  | | |
 
