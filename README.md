@@ -55,6 +55,7 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 - cars4.csv
 
 ### tirsdag d 17/3 - biludlejning og IO-recap
+
 | | Teacher |Student | Group-breakout |individual breakout 
 | --- | --- |--- | --- |--- | --- |--- | --- |
 | 12:30 | --- |--- | --- |--- | --- |--- | --- |
