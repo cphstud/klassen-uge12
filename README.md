@@ -64,10 +64,10 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 | 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
 | 13:30 |`Cars1 III` |  | ||
 | 13:45 | |  | |`Hunde med filter`|
-| 14:00 | |  | | |
+| 14:00 | |`Vores løsning`  | | |
 | 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
-| 14:30 | |  | | |
-| 14:45 | |  | | |
+| 14:30 |`Cars2 ` |  | | |
+| 14:45 | |  | |`Books` |
 | 15:00 | |  | | |
 | 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 15:30 | |  | | |
