@@ -61,7 +61,7 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 | 12:30 |       |        |                |                    | 
 | 12:45 |       |        |                |                    | 
 | 13:00 |       |        |                |                     |
-| 13:15 |       |        |                |                    | 
+| 13:15 |PAUSE       |  PAUSE      |                |                    | 
 | 13:30 | |  | ||
 | 13:45 | |  | ||
 | 14:00 | |  | | |
