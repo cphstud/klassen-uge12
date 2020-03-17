@@ -61,15 +61,15 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 | 12:30 |       |        |                |                    | 
 | 12:45 |       |        |                |                    | 
 | 13:00 |       |        |                |                     |
-| 13:15 |PAUSE       |  PAUSE      |                |                    | 
+| 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
 | 13:30 | |  | ||
 | 13:45 | |  | ||
 | 14:00 | |  | | |
-| 14:15 | |  | | |
+| 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 14:30 | |  | | |
 | 14:45 | |  | | |
 | 15:00 | |  | | |
-| 15:15 | |  | | |
+| 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 15:30 | |  | | |
 | 15:45 | |  | | |
 
