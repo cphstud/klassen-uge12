@@ -58,8 +58,8 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 
 |     | Teacher |Student | Group-breakout |individual breakout |
 | --- | ------- |------- | -------------- |------------------- |
-| 12:30 |Bilopg       |        |                |                    | 
-| 12:45 |Bilopg IO       |        |                |                    | 
+| 12:30 |`Bilopg`       |        |                |                    | 
+| 12:45 |`Bilopg IO`       |        |                |                    | 
 | 13:00 |       |        |                |                     |
 | 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
 | 13:30 | |  | ||
