@@ -63,7 +63,7 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 | 13:00 |       |        |                |`Biblioteker`|                     
 | 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
 | 13:30 |`Cars1 III` |  | ||
-| 13:45 | |  | ||
+| 13:45 | |  | |`Hunde med filter`|
 | 14:00 | |  | | |
 | 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 14:30 | |  | | |
@@ -71,5 +71,5 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 | 15:00 | |  | | |
 | 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
 | 15:30 | |  | | |
-| 15:45 | |  | | |
+| 15:45 |`Maven og junit` |  | | |
 
