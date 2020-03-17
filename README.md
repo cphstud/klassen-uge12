@@ -60,7 +60,7 @@ Der ligger et par kommandoer og en header så man har en chance for at grave de 
 | --- | ------- |------- | -------------- |------------------- |
 | 12:30 |`Bilopg IO`       |        |                |                    | 
 | 12:45 |`Cars1 II`       |        |                |                    | 
-| 13:00 |       |        |                |                     |`Biblioteker`
+| 13:00 |       |        |                |`Biblioteker`|                     
 | 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
 | 13:30 |`Cars1 III` |  | ||
 | 13:45 | |  | ||
