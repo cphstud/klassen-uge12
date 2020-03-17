@@ -1,0 +1,8 @@
+{"Type":"book","Id":"125610-katalog:90030787","language":"Dansk","creator":"Peter Seeberg","title":"Fugls føde"}
+{"Type":"book","Id":"125610-katalog:90041509","language":"Dansk","creator":"Friedrich Nietzsche","title":"Sꜳledes talte Zarathustra : en bog for alle og for ingen"}
+{"Type":"book","Id":"125610-katalog:90084534","language":"Dansk","creator":"Don Brandt","title":"Færøernes frimærker og historie"}
+{"Type":"book","Id":"125610-katalog:90347349","language":"Dansk","creator":"Janna Hansen","title":"Betwixt and Between - Religion og religiøsitet på Færøerne i det 21. århundrede"}
+{"Type":"book","Id":"300101-katalog:101552438","language":"Dansk","creator":"Pia Tafdrup","title":"Digte 1981-83 : Når der går hul på en engel, Intetfang, Den inderste zone"}
+{"Type":"book","Id":"300101-katalog:101562301","language":"Dansk","creator":"H. C. Andersen","title":"Eventyr"}
+{"Type":"book","Id":"300101-katalog:101574326","language":"Dansk","creator":"Westi Maj-Britt aut","title":"Efterår"}
+{"Type":"book","Id":"300101-katalog:101587126","language":"Dansk","creator":"Dina Gellert","title":"Villads fra Valby laver opgaver"}
