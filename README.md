@@ -1,4 +1,23 @@
 # Uge12: Biludlejning med Filer I/O og refaktorereing
+### torsdag d 19/3 - FileIO, Refactoring and Exceptions 
+
+|     | Teacher |Student | Group-breakout |individual breakout |
+| --- | ------- |------- | -------------- |------------------- |
+| 12:30 |`Dagen ppt`       |        |                |                    | 
+| 12:45 |      |        | `Dyr I`               |                    | 
+| 13:00 |       |`Dyr I`        |                ||                     
+| 13:15 |PAUSE       |  PAUSE      |PAUSE                |PAUSE                    |PAUSE 
+| 13:30 |`Dyr II` |  | ||
+| 13:45 | |  |`Dyr II` ||
+| 14:00 | |`Vores løsning`  | | |
+| 14:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
+| 14:30 |`Biblioteker I` |  | | |
+| 14:45 | |  |`Biblioteker I` | |
+| 15:00 |`Biblioteker II` | | | |
+| 15:15 |PAUSE |PAUSE  |PAUSE |PAUSE |PAUSE
+| 15:30 | |  |`Biblioteker II` | |
+| 15:45 | |`Biblioteker II`  | | |
+
 ### mandag d 16/3 - arbejder med biludlejning
 
 
